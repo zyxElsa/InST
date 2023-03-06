@@ -80,12 +80,12 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## Inversion-Based Creativity Transfer with Diffusion Models
+## Inversion-Based Style Transfer with Diffusion Models
 
 <!-- ![teaser](./Images/teaser.png) -->
 ![teaser](./Images/teaser.png)
 
-In this paper, we introduce the task of "Creativity Transfer".  The artistic creativity within a painting is the means of expression, which includes not only the painting material, colors, and brushstrokes, but also the high-level attributes including semantic elements, object shapes, etc.  Previous arbitrary example-guided artistic image generation methods (e.g., style transfer) often fail to control shape changes or convey elements.  The pre-trained text-to-image synthesis diffusion probabilistic models have achieved remarkable quality, but it often requires extensive textual descriptions to accurately portray attributes of a particular painting. We believe that the uniqueness of an artwork lies precisely in the fact that it cannot be adequately explained with normal language. Our key idea is to learn artistic creativity directly from a single painting and then guide the synthesis without providing complex textual descriptions.  Specifically, we assume creativity as a learnable textual description of a painting.  We propose an attention-based inversion method, which can efficiently and accurately learn the holistic and detailed information of an image, thus capturing the complete artistic creativity of a painting.  We demonstrate the quality and efficiency of our method on numerous paintings of various artists and styles.
+The artistic style within a painting is the means of expression, which includes not only the painting material, colors, and brushstrokes, but also the high-level attributes including semantic elements, object shapes, etc.  Previous arbitrary example-guided artistic image generation methods often fail to control shape changes or convey elements.  The pre-trained text-to-image synthesis diffusion probabilistic models have achieved remarkable quality, but it often requires extensive textual descriptions to accurately portray attributes of a particular painting. We believe that the uniqueness of an artwork lies precisely in the fact that it cannot be adequately explained with normal language.Our key idea is to learn artistic style directly from a single painting and then guide the synthesis without providing complex textual descriptions.  Specifically, we assume style as a learnable textual description of a painting.  We propose an inversion-based style transfer method (InST), which can efficiently and accurately learn the key information of an image, thus capturing and transferring the complete artistic style of a painting.  We demonstrate the quality and efficiency of our method on numerous paintings of various artists and styles.
 
 For details see the [paper](https://arxiv.org/abs/2211.13203) 
 
