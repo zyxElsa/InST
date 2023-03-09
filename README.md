@@ -128,7 +128,7 @@ For packages, see environment.yaml.
 
    Clone the repo
    ```sh
-   git clone https://github.com/zyxElsa/creativity-transfer.git
+   git clone https://github.com/zyxElsa/InST.git
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
