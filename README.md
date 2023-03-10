@@ -135,7 +135,7 @@ For packages, see environment.yaml.
 
 ### Train
 
-   Train the Creativity Transfer model:
+   Train InST:
    ```sh
    python main.py --base configs/stable-diffusion/v1-finetune.yaml
                -t 
@@ -153,7 +153,7 @@ For packages, see environment.yaml.
 
 ### Test
 
-   To generate new images, run CreativityTransfer.ipynb
+   To generate new images, run InST.ipynb
    
 <p align="right">(<a href="#top">back to top</a>)</p>
 
