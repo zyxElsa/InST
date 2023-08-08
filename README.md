@@ -162,8 +162,8 @@ For packages, see environment.yaml.
 ### Comparison Data
 
   For a easier comparison with InST, the results generated with the same _random seed_ `seed=50` and similar _strength_ without any cherry-picking are supplemented. You can download the embedding.pt and content/style/results images [here](https://drive.google.com/drive/folders/1vte8eIp1QG9sQ4iKVeuQnB-RqmqMxVoD?usp=sharing).
-  <!-- ![camparison_image](./Images/camparison_image.png) -->
-  ![camparison_image](./Images/camparison_image.png)
+  <!-- ![comparison_data](./Images/comparison_data.png) -->
+  ![comparison_data](./Images/comparison_data.png)
   
 <p align="right">(<a href="#top">back to top</a>)</p>
 
