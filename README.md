@@ -167,19 +167,22 @@ For packages, see environment.yaml.
   
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!--
+
 ### Citation
    
    ```sh
-   @inproceedings{zhang2020cast,
-   author = {Zhang, Yuxin and Tang, Fan and Dong, Weiming and Huang, Haibin and Ma, Chongyang and Lee, Tong-Yee and Xu, Changsheng},
-   title = {Domain Enhanced Arbitrary Image Style Transfer via Contrastive Learning},
-   booktitle = {ACM SIGGRAPH},
-   year = {2022}}
+   @InProceedings{Zhang_2023_CVPR,
+    author    = {Zhang, Yuxin and Huang, Nisha and Tang, Fan and Huang, Haibin and Ma, Chongyang and Dong, Weiming and Xu, Changsheng},
+    title     = {Inversion-Based Style Transfer With Diffusion Models},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {10146-10156}
+}
    ```
    
 <p align="right">(<a href="#top">back to top</a>)</p>
--->
+
 
 
 <!-- 
