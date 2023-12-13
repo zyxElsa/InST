@@ -171,7 +171,7 @@ For packages, see environment.yaml.
 ### Citation
    
    ```sh
-   @InProceedings{Zhang_2023_CVPR,
+   @InProceedings{Zhang_2023_inst,
     author    = {Zhang, Yuxin and Huang, Nisha and Tang, Fan and Huang, Haibin and Ma, Chongyang and Dong, Weiming and Xu, Changsheng},
     title     = {Inversion-Based Style Transfer With Diffusion Models},
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
