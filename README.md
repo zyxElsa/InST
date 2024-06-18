@@ -90,6 +90,7 @@ The artistic style within a painting is the means of expression, which includes 
 For details see the [paper](https://arxiv.org/abs/2211.13203) 
 
 ### News
+📣📣 Received some requirements, therefore we have added an optional AdaIN module in InST.ipynb to help you achieve results that better meet your needs.
 📣📣 See our latest work about attribute-aware image generation with diffusion model [ProSpect: Expanded Conditioning for the Personalization of Attribute-aware Image Generation](https://arxiv.org/abs/2305.16225) in [Code](https://github.com/zyxElsa/ProSpect).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
